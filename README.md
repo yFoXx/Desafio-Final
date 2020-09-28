@@ -1,5 +1,5 @@
 # helloworld
 
-Esse é o primeiro código no github.
+Esse é o primeiro projeto java Script.
 
 by Jaisom Umpierre
